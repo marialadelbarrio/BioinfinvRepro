@@ -49,7 +49,7 @@ Julia Carrasco Zanini Sánchez
 
 Luz Estela Zamudio Beltrán
 
-María Chavarria [Avance 1](https://github.com/marialadelbarrio/ProyectoFinalBioinf2017-II/blob/master/Avance_1)
+María Chavarria [Avance 1](https://github.com/marialadelbarrio/ProyectoFinalBioinf2017-II/blob/master/Avance_1) [Avance 2](https://github.com/marialadelbarrio/tareas_curso_bioinfinvrepro/blob/master/Avance2_maria.md)
 
 María José Monteverde Suárez
 
